@@ -25,10 +25,16 @@
 <v t="leo.20180902120523.12"><vh>投影片快捷鍵</vh></v>
 </v>
 <v t="leo.20180902120523.13"><vh>各式內容引用範例</vh>
-<v t="leo.20180902120523.14"><vh>導入數學符號與方程式</vh>
+<v t="leo.20200107230420.1"><vh>溫度</vh>
 <v t="leo.20180902120523.15"><vh>溫度單位轉換</vh></v>
+</v>
+<v t="leo.20200107230244.1"><vh>重量</vh>
 <v t="leo.20200107212635.1"><vh>重量單位轉換</vh></v>
+</v>
+<v t="leo.20200107230505.1"><vh>國旗</vh>
 <v t="leo.20200107222714.1"><vh>各國國旗</vh></v>
+</v>
+<v t="leo.20180902120523.14"><vh>亂數</vh>
 <v t="leo.20200107223210.1"><vh>亂數分組</vh></v>
 </v>
 <v t="leo.20180902120523.16"><vh>導入縮排程式碼</vh>
@@ -323,5 +329,26 @@ vertical: body pane on the botton</t>
 <t tx="leo.20200107212635.1"># 重量單位轉換</t>
 <t tx="leo.20200107222714.1"># 各國國旗</t>
 <t tx="leo.20200107223210.1"># 亂數分組</t>
+<t tx="leo.20200107230244.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200107230420.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
+<t tx="leo.20200107230505.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+&lt;!-- 請注意, @others 不可以內縮 --&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+</t>
 </tnodes>
 </leo_file>
