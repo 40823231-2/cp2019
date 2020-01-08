@@ -38,6 +38,9 @@
 <v t="leo.20200107223210.1"><vh>亂數分組</vh></v>
 </v>
 </v>
+<v t="leo.20200108082850.1"><vh>心得</vh>
+<v t="leo.20200108082930.1"><vh>心得1</vh></v>
+</v>
 </v>
 </v>
 </v>
@@ -295,6 +298,17 @@ vertical: body pane on the botton</t>
 @others
     &lt;/script&gt;
 &lt;/section&gt;
+</t>
+<t tx="leo.20200108082850.1">&lt;section data-markdown&gt;
+    &lt;script type="text/template"&gt;
+@others
+    &lt;/script&gt;
+&lt;/section&gt;
+
+
+						
+</t>
+<t tx="leo.20200108082930.1">#心得
 </t>
 </tnodes>
 </leo_file>
